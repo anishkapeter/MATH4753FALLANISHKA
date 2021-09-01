@@ -1,0 +1,10 @@
+Package: MATH4753FALLANISHKA
+Type: Package
+Title: MATH 4753 functions
+Version: 0.1.0
+Author: Anishka Peter
+Maintainer: The package maintainer <anishka.a.peter-1@ou.edu>
+Description: These are a selection of fucntions from MATH 4753.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
